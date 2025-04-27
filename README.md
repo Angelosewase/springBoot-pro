@@ -1,9 +1,9 @@
 
-# Spring Boot Advanced Tutorials
+# Spring Boot Advanced projects 
 
-**Here we are maked almost all types of Spring Boot Applications that you suggested via linkedin/Gmail, If you are looking something that is out of the box then just ping me in linkedin or mail with your required project i will make the template for you for free**
+**Here we are learning through making  almost all types of Spring Boot Applications for  most use cases , If you are looking something that is out of the box then just ping me in linkedin or mail with your required project i will make the template for you for free**
 
-**Happy Coding always  Love from Alan**💖
+**Happy Coding always  Love from Angel**💖
 
 **Spring Boot Offical Webpage** - ***https://spring.io/*** <br>
 **Spring Boot Reference Documentation** - ***https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-help***
